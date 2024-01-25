@@ -8,7 +8,7 @@ metadata:
     - title: Repository
       url: https://github.com/rogeriorocha/scaffolder-backend-module-azure-pipelines
     - title: npm
-      url: https://www.npmjs.com/package/@rogeriorocha/scaffolder-backend-module-azure-pipelines
+      url: https://www.npmjs.com/package/@rogeriosilvarocha/scaffolder-backend-module-azure-pipelines
   annotations:
     github.com/project-slug: rogeriorocha/scaffolder-backend-module-azure-pipelines
   tags:
