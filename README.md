@@ -31,7 +31,7 @@ You need to configure the actions in your backend:
 
 ```sh
 # From your Backstage root directory
-yarn add --cwd packages/backend @parfuemerie-douglas/scaffolder-backend-module-azure-pipelines
+yarn add --cwd packages/backend @rogeriorocha/scaffolder-backend-module-azure-pipelines
 ```
 
 Configure the actions (you can check the
@@ -45,7 +45,7 @@ import {
   createAzurePipelineAction,
   permitAzurePipelineAction,
   runAzurePipelineAction,
-} from "@parfuemerie-douglas/scaffolder-backend-module-azure-pipelines";
+} from "@rogeriorocha/scaffolder-backend-module-azure-pipelines";
 
 const actions = [
   createAzurePipelineAction({ integrations }),
@@ -106,7 +106,7 @@ metadata:
   title: Create Azure Pipeline Test
   description: Create Azure pipeline example
 spec:
-  owner: parfuemerie-douglas
+  owner: rogeriorocha
   type: service
 
   parameters:

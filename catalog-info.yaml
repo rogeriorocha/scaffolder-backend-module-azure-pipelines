@@ -6,11 +6,11 @@ metadata:
     A collection of Backstage scaffolder backend modules for Azure pipelines.
   links:
     - title: Repository
-      url: https://github.com/Parfuemerie-Douglas/scaffolder-backend-module-azure-pipelines
+      url: https://github.com/rogeriorocha/scaffolder-backend-module-azure-pipelines
     - title: npm
-      url: https://www.npmjs.com/package/@parfuemerie-douglas/scaffolder-backend-module-azure-pipelines
+      url: https://www.npmjs.com/package/@rogeriorocha/scaffolder-backend-module-azure-pipelines
   annotations:
-    github.com/project-slug: Parfuemerie-Douglas/scaffolder-backend-module-azure-pipelines
+    github.com/project-slug: rogeriorocha/scaffolder-backend-module-azure-pipelines
   tags:
     - backstage
     - azure
@@ -19,5 +19,5 @@ metadata:
     - template
 spec:
   type: library
-  owner: parfuemerie-douglas
+  owner: rogeriorocha
   lifecycle: production
